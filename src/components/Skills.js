@@ -1,5 +1,4 @@
 import React from 'react'
-
 import myskills from '../data/myskills.json'
 
 const Skills = () => {
@@ -17,13 +16,12 @@ const Skills = () => {
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
-          {myskills.map((skill) => (
-            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-              <img
-                className="w-20 mx-auto"
-                src={`/images/${skill.url}`}
-                alt={skill.name}
-              />
+          {myskills.map((skill, index) => (
+            <div
+              key={index}
+              className="shadow-md shadow-[#040c16] hover:scale-110 duration-500"
+            >
+              <img className="w-20 mx-auto" src={skill.url} alt={skill.name} />
               <p className="my-4">{skill.name}</p>
             </div>
           ))}

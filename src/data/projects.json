@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Booki - Reservation de lieux de vacances",
+    "image": "assets/projects/booki.png",
+    "description": "Site d'intégration HTML/CSS",
+    "prob": "Ce projet m'a permis d'assimiler les logiques HTML/CSS, ainsi que le responsive design qui était une tache assez fastidieuse sur ce projet.",
+    "comp": ["assets/html.png", "assets/css.png"],
+    "url": "https://github.com/NaimHz/Projet-1"
+  },
+  {
+    "id": 2,
+    "title": "Nina Carducci - Photographe",
+    "image": "assets/projects/nina.png",
+    "description": "Site d'optimisation et debug / SEO",
+    "prob": "J'ai acquis une compréhension approfondie des meilleures pratiques en matière de référencement par le biai des différentes optimisations que j'ai apporter au SEO du site.",
+    "comp": ["assets/html.png", "assets/css.png", "assets/javascript.png"],
+    "url": "https://github.com/NaimHz/Projet-3"
+  },
+  {
+    "id": 3,
+    "title": "Kasa - Location d'hébergement",
+    "image": "assets/projects/kasa.png",
+    "description": "Application React.js pour la location de bien immobiliers",
+    "prob": "Mes connaissances en développement front-end se sont considérablement approfondies grâce à l'exploration de React et à la compréhension de sa logique basée sur les composants. J'ai aussi appris l'aspect animatif de css avec notamment SASS.",
+    "comp": [
+      "assets/html.png",
+      "assets/css.png",
+      "assets/javascript.png",
+      "assets/react.png",
+      "assets/sass.png"
+    ],
+    "url": "https://github.com/NaimHz/Projet-4"
+  },
+  {
+    "id": 4,
+    "title": "Mon vieux grimoire - Partage et Notation de Livres",
+    "image": "assets/projects/mvg.png",
+    "description": "Un réseau social pour les amateurs de livres avec un backend NodeJS",
+    "prob": "C'est ce projet qui m'a initié au backend avec la technologie NodeJS et la database MongoDB.",
+    "comp": [
+      "assets/html.png",
+      "assets/css.png",
+      "assets/javascript.png",
+      "assets/node.png",
+      "assets/mongo.png"
+    ],
+    "url": "https://github.com/NaimHz/Projet-5"
+  }
+]
