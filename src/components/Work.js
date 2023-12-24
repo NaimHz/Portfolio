@@ -6,7 +6,7 @@ import { HiArrowNarrowRight } from 'react-icons/hi'
 const Work = () => {
   return (
     <div name="work" className="w-full  text-gray-300 bg-[#0a192f]">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full pt-10 md:pt-0">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-2 text-gray-300 border-pink-600">
             Projets
@@ -17,7 +17,7 @@ const Work = () => {
           {project.map((item, index) => (
             <div className="group mb-8 border-b-4" key={index}>
               <h2 className="text-center mb-4 font-bold text-2xl">
-                <FaMedal color="yellow" />
+                <FaMedal className="hidden md:flex" color="yellow" />
                 {item.title}
               </h2>
               <img
@@ -25,8 +25,8 @@ const Work = () => {
                 src={item.image}
                 alt={index}
               />
-              <p className="my-3 text-2xl text-[#bf3197] underline underline-offset-4 decoration-white text-center">
-                {item.description}
+              <p className="my-3 text-2xl text-[#bf3197] text-center">
+                // {item.description}
               </p>
               <p className="my-7 text-[#ccd6f6]">{item.prob}</p>
               <div className="flex my-5">
@@ -35,7 +35,7 @@ const Work = () => {
                 ))}
               </div>
               <div className="mb-10">
-                <a href={item.url}>
+                <a href={item.url} target="_blank">
                   <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-gray-300 hover:border-pink-600">
                     Github Link
                   </button>
