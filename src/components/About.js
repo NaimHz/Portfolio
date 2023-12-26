@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-scroll'
 
 const About = () => {
   return (
@@ -21,15 +22,23 @@ const About = () => {
           </div>
           <div>
             <p>
-              Après avoir valider 1 an a l'IUT Informatique, j'ai décider de me
+              Après avoir validé 1 an a l'IUT Informatique, j'ai décidé de me
               spécialiser dans le web et de me former au métier de développeur
               fullstack. Je suis passionné par la création de logiciels de
-              qualité qui améliorent la vie de ceux qui m'entourent.
+              qualités qui améliorent la vie de ceux qui m'entourent.
             </p>
             <p className="mt-3">
               Vous cherchez un développeur passionné et polyvalent pour votre
-              prochain projet ? N'hésitez pas à me contacter pour discuter de
-              vos besoins.
+              prochain projet ? N'hésitez pas à me contacter{' '}
+              <Link
+                className="font-bold hover:cursor-pointer"
+                to="contact"
+                smooth="true"
+                duration={500}
+              >
+                ici
+              </Link>{' '}
+              pour discuter de vos besoins.
             </p>
           </div>
         </div>
