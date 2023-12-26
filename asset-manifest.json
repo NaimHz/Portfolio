@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Projet-6.git/static/css/main.b076d6d3.css",
+    "main.js": "/Projet-6.git/static/js/main.240ee19b.js",
+    "static/media/circlelogo.png": "/Projet-6.git/static/media/circlelogo.8e11b7d70914f213a4e6.png",
+    "index.html": "/Projet-6.git/index.html",
+    "main.b076d6d3.css.map": "/Projet-6.git/static/css/main.b076d6d3.css.map",
+    "main.240ee19b.js.map": "/Projet-6.git/static/js/main.240ee19b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b076d6d3.css",
+    "static/js/main.240ee19b.js"
+  ]
+}
