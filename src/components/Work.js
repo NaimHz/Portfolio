@@ -37,7 +37,7 @@ const Work = () => {
               <div className="mb-10">
                 <a href={item.url} target="_blank">
                   <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-gray-300 hover:border-pink-600">
-                    Github Link
+                    Lien Github
                   </button>
                 </a>
               </div>
