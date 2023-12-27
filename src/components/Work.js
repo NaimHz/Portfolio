@@ -35,7 +35,7 @@ const Work = () => {
               </div>
               <div className="mb-10">
                 <a href={item.url} target="_blank" rel="noreferrer">
-                  <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-gray-300 hover:border-pink-600">
+                  <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black ">
                     Lien Github
                   </button>
                 </a>
