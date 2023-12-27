@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import circlelogo from '../assets/circlelogo.png'
+import circlelogo from '../assets/weblogo.jpeg'
 import {
   FaBars,
   FaTimes,

@@ -58,5 +58,11 @@
     "name": "GITHUB",
     "url": "assets/github.png",
     "note": 5
+  },
+  {
+    "id": 10,
+    "name": "VSCODE",
+    "url": "assets/vscode.png",
+    "note": 4
   }
 ]
