@@ -1,7 +1,10 @@
 import React from 'react'
-import myskills from '../data/myskills.json'
+import myskillsnotsort from '../data/myskills.json'
+import { MdOutlineStar } from 'react-icons/md'
 
 const Skills = () => {
+  const myskills = myskillsnotsort.sort((a, b) => b.note - a.note)
+  const range = [1, 2, 3, 4, 5]
   return (
     <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
       {/* Container */}
@@ -23,6 +26,13 @@ const Skills = () => {
             >
               <img className="w-20 mx-auto" src={skill.url} alt={skill.name} />
               <p className="my-4">{skill.name}</p>
+              <p>
+                {range.map((rangeElem) =>
+                  skill.note >= rangeElem ? (
+                    <MdOutlineStar className="inline top-0" />
+                  ) : null,
+                )}
+              </p>
             </div>
           ))}
         </div>

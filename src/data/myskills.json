@@ -2,51 +2,61 @@
   {
     "id": 0,
     "name": "HTML",
-    "url": "assets/html.png"
+    "url": "assets/html.png",
+    "note": 5
   },
   {
     "id": 1,
     "name": "CSS",
-    "url": "assets/css.png"
+    "url": "assets/css.png",
+    "note": 5
   },
   {
     "id": 2,
     "name": "JAVASCRIPT",
-    "url": "assets/javascript.png"
+    "url": "assets/javascript.png",
+    "note": 5
   },
   {
     "id": 3,
     "name": "REACT",
-    "url": "assets/react.png"
+    "url": "assets/react.png",
+    "note": 4
   },
   {
     "id": 4,
     "name": "SASS",
-    "url": "assets/sass.png"
+    "url": "assets/sass.png",
+    "note": 3
   },
   {
     "id": 5,
     "name": "TAILWIND",
-    "url": "assets/tailwind.png"
+    "url": "assets/tailwind.png",
+    "note": 3
   },
   {
     "id": 6,
     "name": "NODEJS",
-    "url": "assets/node.png"
+    "url": "assets/node.png",
+    "note": 3
   },
   {
     "id": 7,
     "name": "MONGODB",
-    "url": "assets/mongo.png"
+    "url": "assets/mongo.png",
+    "note": 3
   },
   {
     "id": 8,
     "name": "SQL",
-    "url": "assets/sql.png"
+    "url": "assets/sql.png",
+    "note": 4
   },
   {
     "id": 9,
     "name": "GITHUB",
-    "url": "assets/github.png"
+    "url": "assets/github.png",
+    "note": 5
   }
 ]
