@@ -4,9 +4,9 @@ import { FaMedal } from 'react-icons/fa'
 
 const Work = () => {
   return (
-    <div name="work" className="w-full  text-gray-300 bg-[#0a192f]">
+    <div name="works" className="w-full  text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full pt-10 md:pt-0">
-        <div className="pb-8">
+        <div className="pb-8 mt-20">
           <p className="text-4xl font-bold inline border-b-2 text-gray-300 border-pink-600">
             Projets
           </p>
