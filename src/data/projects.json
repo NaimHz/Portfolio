@@ -6,7 +6,8 @@
     "description": "Site d'intégration HTML/CSS",
     "prob": "Ce projet m'a permis d'assimiler les logiques HTML/CSS, ainsi que le responsive design qui était une tache assez fastidieuse sur ce projet.",
     "comp": ["assets/html.png", "assets/css.png"],
-    "url": "https://github.com/NaimHz/Projet-1"
+    "url": "https://github.com/NaimHz/Projet-1",
+    "url2": "https://naimhz.github.io/Projet-1/"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "description": "Site d'optimisation et debug / SEO",
     "prob": "J'ai acquis une compréhension approfondie des meilleures pratiques en matière de référencement par le biai des différentes optimisations que j'ai apporter au SEO du site.",
     "comp": ["assets/html.png", "assets/css.png", "assets/javascript.png"],
-    "url": "https://github.com/NaimHz/Projet-3"
+    "url": "https://github.com/NaimHz/Projet-3",
+    "url2": "https://naimhz.github.io/Projet-3/"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
       "assets/react.png",
       "assets/sass.png"
     ],
-    "url": "https://github.com/NaimHz/Projet-4"
+    "url": "https://github.com/NaimHz/Projet-4",
+    "url2": "https://naimhz.github.io/Projet-4/"
   },
   {
     "id": 4,
@@ -45,6 +48,7 @@
       "assets/node.png",
       "assets/mongo.png"
     ],
-    "url": "https://github.com/NaimHz/Projet-5"
+    "url": "https://github.com/NaimHz/Projet-5",
+    "url2": "https://naimhz.github.io/Projet-5/"
   }
 ]

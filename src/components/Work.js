@@ -39,6 +39,11 @@ const Work = () => {
                     Lien Github
                   </button>
                 </a>
+                <a href={item.url2} target="_blank" rel="noreferrer">
+                  <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black ">
+                    Lien du site
+                  </button>
+                </a>
               </div>
             </div>
           ))}
