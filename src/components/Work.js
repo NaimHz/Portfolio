@@ -33,9 +33,9 @@ const Work = () => {
                   <img className="w-10 mx-4" src={comp} alt={index} />
                 ))}
               </div>
-              <div className="mb-10">
+              <div className="mb-10 flex">
                 <a href={item.url} target="_blank" rel="noreferrer">
-                  <button className="mx-auto text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black ">
+                  <button className="mx-5 text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black ">
                     Lien Github
                   </button>
                 </a>
