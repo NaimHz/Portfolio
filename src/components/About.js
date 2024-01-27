@@ -22,14 +22,15 @@ const About = () => {
           </div>
           <div>
             <p>
-              Après avoir validé 1 an a l'IUT Informatique, j'ai décidé de me
-              spécialiser dans le web et de me former au métier de développeur
-              fullstack. Je suis passionné par la création de logiciels de
-              qualités qui améliorent la vie de ceux qui m'entourent.
+              Après avoir validé mon année à l'IUT Informatique, j'ai décidé de
+              me spécialiser dans le web et de me former au métier de
+              développeur fullstack. Je performe dans la création de logiciels
+              de qualités et je me challenge pour améliorer la vie des
+              utilisateurs.
             </p>
             <p className="mt-3">
-              Vous cherchez un développeur passionné et polyvalent pour votre
-              prochain projet ? N'hésitez pas à me contacter{' '}
+              Vous êtes à la recherche d'un développeur passionné et polyvalent
+              pour votre prochain projet ? N'hésitez pas à me contacter.{' '}
               <Link
                 className="font-bold hover:cursor-pointer"
                 to="contact"
@@ -38,7 +39,7 @@ const About = () => {
               >
                 ici
               </Link>{' '}
-              pour discuter de vos besoins.
+              pour analyser et déterminer vos besoins.
             </p>
           </div>
         </div>
