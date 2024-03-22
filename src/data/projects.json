@@ -23,7 +23,7 @@
     "id": 3,
     "title": "Kasa - Location d'hébergement",
     "image": "assets/projects/kasa.png",
-    "description": "Application React.js pour la location de bien immobiliers",
+    "description": "Site web React.js pour la location de bien immobiliers",
     "prob": "Mes connaissances en développement front-end se sont considérablement approfondies grâce à l'exploration de React et à la compréhension de sa logique basée sur les composants. J'ai aussi appris l'aspect animatif de css avec notamment SASS.",
     "comp": [
       "assets/html.png",
@@ -40,7 +40,7 @@
     "title": "Mon vieux grimoire - Partage et Notation de Livres",
     "image": "assets/projects/mvg.png",
     "description": "Un réseau social pour les amateurs de livres avec un backend NodeJS",
-    "prob": "C'est ce projet qui m'a initié au backend avec la technologie NodeJS et la database MongoDB. Si vous voulez voir mon travail sur le backend veuillez l'installer comme indiqué sur le lien git",
+    "prob": "C'est ce projet qui m'a initié au backend avec la technologie NodeJS et la database MongoDB. Si vous voulez voir mon travail sur le backend veuillez l'installer comme indiqué sur le lien git.",
     "comp": [
       "assets/html.png",
       "assets/css.png",
