@@ -6,8 +6,8 @@
     "description": "Site d'intégration HTML/CSS",
     "prob": "Ce projet m'a permis d'assimiler les logiques HTML/CSS, ainsi que le responsive design qui était une tache assez fastidieuse sur ce projet.",
     "comp": ["assets/html.png", "assets/css.png"],
-    "url": "https://github.com/NaimHz/Projet-1",
-    "url2": "https://naimhz.github.io/Projet-1/"
+    "url": "https://github.com/NaimHz/Booki-agence-voyage",
+    "url2": "https://naimhz.github.io/Booki-agence-voyage/"
   },
   {
     "id": 2,
@@ -16,8 +16,8 @@
     "description": "Site d'optimisation et debug / SEO",
     "prob": "J'ai acquis une compréhension approfondie des meilleures pratiques en matière de référencement par le biai des différentes optimisations que j'ai apporter au SEO du site.",
     "comp": ["assets/html.png", "assets/css.png", "assets/javascript.png"],
-    "url": "https://github.com/NaimHz/Projet-3",
-    "url2": "https://naimhz.github.io/Projet-3/"
+    "url": "https://github.com/NaimHz/Nina-carducci",
+    "url2": "https://naimhz.github.io/Nina-carducci/"
   },
   {
     "id": 3,
@@ -32,15 +32,15 @@
       "assets/react.png",
       "assets/sass.png"
     ],
-    "url": "https://github.com/NaimHz/Projet-4",
-    "url2": "https://naimhz.github.io/Projet-4/"
+    "url": "https://github.com/NaimHz/Kasa",
+    "url2": "naimhz.github.io/Kasa/"
   },
   {
     "id": 4,
     "title": "Mon vieux grimoire - Partage et Notation de Livres",
     "image": "assets/projects/mvg.png",
     "description": "Un réseau social pour les amateurs de livres avec un backend NodeJS",
-    "prob": "C'est ce projet qui m'a initié au backend avec la technologie NodeJS et la database MongoDB.",
+    "prob": "C'est ce projet qui m'a initié au backend avec la technologie NodeJS et la database MongoDB. Si vous voulez voir mon travail sur le backend veuillez l'installer comme indiqué sur le lien git",
     "comp": [
       "assets/html.png",
       "assets/css.png",
@@ -48,7 +48,7 @@
       "assets/node.png",
       "assets/mongo.png"
     ],
-    "url": "https://github.com/NaimHz/Projet-5",
-    "url2": "https://naimhz.github.io/Projet-5/"
+    "url": "https://github.com/NaimHz/Mon-vieux-grimoire",
+    "url2": "https://naimhz.github.io/Mon-vieux-grimoire/"
   }
 ]
